@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PermissionXS"
 include(":app")
- 
+include(":mylibrary")
